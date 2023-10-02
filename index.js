@@ -57,5 +57,5 @@
 
 // ANIMATE
 $(document).on("click", function() {
-    $("h1").animate({opacity: 0.5, margin: "20px"});
+    $("h1").animate({opacity: 0.5, margin: "20"});
 }); //you can only use this for numeric changes 
